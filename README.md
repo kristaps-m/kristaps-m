@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kristaps</h1>
 <h3 align="center">A passionate software engineer from Latvia</h3>
 
+- 🔭 Working on **Currently working on the C# project flight planner, learning about Web API (Application Programming Interface).**
+- 👨🏽‍💻 Proud of **https://github.com/kristaps-m/practicepython.org-solutions**
+     These were my first serious programming challenges. I like them so much I completed them twice.
 - ⚡ Fun fact **I know how to solve Rubik's Cube blindfolded.**
 
 <h3 align="left">Connect with me:</h3>
