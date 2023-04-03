@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kristaps</h1>
 <h3 align="center">A passionate software engineer from Latvia</h3>
 
-- ⚡ Fun fact **I know how to solve Rubik's Cube blindfolded.**
+- 🔭 I’m currently working on [https://github.com/kristaps-m/Village](https://github.com/kristaps-m/Village)
+  - Come check it out. It has .NET backend and Angular frontend.
+- ⚡ Fun fact **I know how to solve Rubik's Cube blindfolded.** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
