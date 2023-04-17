@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kristaps</h1>
 <h3 align="center">A passionate software engineer from Latvia</h3>
 
-- 🔭 I’m currently working on [https://github.com/kristaps-m/Village](https://github.com/kristaps-m/Village)
+- 🔭 I’m currently working on [github.com/kristaps-m/Village](https://github.com/kristaps-m/Village)
   - Come check it out. It has .NET backend and Angular frontend.
+- ⚡ I have created interesting project using Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>, .NET for API and React + Matreal UI [github.com/kristaps-m/ycombinator-data-scraper](https://github.com/kristaps-m/ycombinator-data-scraper)
+  - It scrapes data from [news.ycombinator.com](https://news.ycombinator.com) using Python. Puts data in SQL data base, and shows frontend with React.
+
+<br>
+
 - ⚡ Fun fact **I know how to solve Rubik's Cube blindfolded.** 
 
 <h3 align="left">Connect with me:</h3>
@@ -20,7 +25,7 @@
 <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristaps-m&)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristaps-m&)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **kristaps-m/kristaps-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
