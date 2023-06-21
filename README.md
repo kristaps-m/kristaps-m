@@ -48,9 +48,9 @@ table, th, td {
     <td>ASP.NET, Angular</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td><a href="https://github.com/kristaps-m/Village">Village</a></td>
+    <td>Simple fullstack application</td>
+    <td>ASP.NET, Angular</td>
   </tr>
 </table>
 
