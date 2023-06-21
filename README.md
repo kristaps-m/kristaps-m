@@ -27,7 +27,7 @@
 </p>
 
 <html>
-<style>
+<!-- <style>
 table, th, td {
   border:1px solid black;
 }
@@ -42,7 +42,7 @@ content: counter(rowNumber);
 min-width: 1em;   
 margin-right: 0.5em;
 }
-</style>
+</style> -->
 <body>
 
 <h2>My projects / portfolio</h2>
