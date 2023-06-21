@@ -31,30 +31,92 @@
 table, th, td {
   border:1px solid black;
 }
+table {   
+counter-reset: rowNumber;
+}
+table tr {
+ counter-increment: rowNumber;
+}
+table tr td:first-child::before {   
+content: counter(rowNumber);   
+min-width: 1em;   
+margin-right: 0.5em;
+}
 </style>
 <body>
 
-<h2>My projects</h2>
+<h2>My projects / portfolio</h2>
 
 <table style="width:100%">
   <tr>
+    <th>#</th>
     <th>Name and link</th>
     <th>Description</th>
-    <th>Main language stack</th>
+    <th>Main language / stack</th>
   </tr>
   <tr>
-    <td><p>[doctors-and-patients](https://github.com/kristaps-m/doctors-and-patients)</p></td>
-    <td>Simple fullstack application</td>
-    <td>ASP.NET, Angular</td>
+    <td></td>
+    <td><a href="https://github.com/kristaps-m/doctors-and-patients" target="_blank">doctors-and-patients</a></td>
+    <td>Simple fullstack application.</td>
+    <td>ASP.NET, C#, Angular + bootstrap</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/kristaps-m/Village">Village</a></td>
-    <td>Simple fullstack application</td>
-    <td>ASP.NET, Angular</td>
+    <td></td>
+    <td><a href="https://github.com/kristaps-m/Village" target="_blank">Village</a></td>
+    <td>Simple fullstack application.</td>
+    <td>ASP.NET, C#, Angular + bootstrap</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://github.com/kristaps-m/ycombinator-data-scraper" target="_blank">ycombinator-data-scraper</a></td>
+    <td>Scrapes data from news.ycombinator.com page and shows it React webpage.</td>
+    <td>Python, ASP.NET, C#, React + material ui</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://github.com/kristaps-m/inventory-of-collected-waste" target="_blank">inventory-of-collected-waste</a></td>
+    <td>Small project about accounting of collected waste.</td>
+    <td>Python</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://github.com/kristaps-m/Python-process-image" target="_blank">Python-process-image</a></td>
+    <td>Small project using OpenCV, numpy to show names of shapes and angles of triangles.</td>
+    <td>Python</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://github.com/kristaps-m/sudoku-validator-ruby" target="_blank">sudoku-validator-ruby</a></td>
+    <td>Small project to validate if ruby field is 'valid', 'invalid' or 'valid but not completed'.</td>
+    <td>Ruby</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://github.com/kristaps-m/dot-net-restcountries-api" target="_blank">dot-net-restcountries-api</a></td>
+    <td>An ASP.NET Core Web API .NET 6 application which uses the REST Countries API.</td>
+    <td>ASP.NET, C#, https://restcountries.com/</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://github.com/kristaps-m/FlutterCalculator" target="_blank">FlutterCalculator</a></td>
+    <td>Calculator I made around year 2020 using the Flutter. That calculates 'Greatest common divisor'...</td>
+    <td>Flutter, Dart</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://github.com/kristaps-m/addDateToFolderOfPictures" target="_blank">addDateToFolderOfPictures</a></td>
+    <td>Adds date (when it is created) on pictures and copies them to another folder.</td>
+    <td>Python</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://github.com/kristaps-m/practicepython.org-solutions" target="_blank">addDateToFolderOfPictures</a></td>
+    <td>These are my solutions to https://www.practicepython.org/exercises. Created long time ago so code needs to refactored.</td>
+    <td>Python</td>
   </tr>
 </table>
 
-<p>To understand the example better, we have added borders to the table.</p>
+<p>I showed 10 projects in this table. But there are more in my GitHub page.</p>
 
 </body>
 </html>
