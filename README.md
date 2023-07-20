@@ -103,7 +103,7 @@ margin-right: 0.5em;
   </tr>
   <tr>
     <td></td>
-    <td><a href="https://github.com/kristaps-m/practicepython.org-solutions" target="_blank">addDateToFolderOfPictures</a></td>
+    <td><a href="https://github.com/kristaps-m/practicepython.org-solutions" target="_blank">practicepython.org-solutions</a></td>
     <td>These are my solutions to https://www.practicepython.org/exercises. Created long time ago so code needs to refactored.</td>
     <td>Python</td>
   </tr> -->
