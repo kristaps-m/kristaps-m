@@ -4,8 +4,12 @@
 - Currently I have more than 30 public repositories.
 - 🔭 I’m currently working on [github.com/kristaps-m/Village](https://github.com/kristaps-m/Village)
   - Come check it out. It has .NET backend and Angular frontend.
+  - You can look at live website: https://villageclient.azurewebsites.net
 - ⚡ I have created interesting project using Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>, .NET for API and React + Matreal UI [github.com/kristaps-m/ycombinator-data-scraper](https://github.com/kristaps-m/ycombinator-data-scraper)
   - It scrapes data from [news.ycombinator.com](https://news.ycombinator.com) using Python. Puts data in SQL data base, and shows frontend with React.
+- ⚡ I have created interesting project using Next.js.
+  - It project is inspired by www.open-resume.com/resume-builder
+  - This project also have live website: https://cv-generator-clone.vercel.app
 
 <br>
 
@@ -49,15 +53,21 @@ margin-right: 0.5em;
   </tr>
   <tr>
     <td></td>
-    <td><a href="https://github.com/kristaps-m/doctors-and-patients" target="_blank">doctors-and-patients</a></td>
-    <td>Simple fullstack application.</td>
-    <td>ASP.NET, C#, Angular + bootstrap</td>
+    <td><a href="https://github.com/kristaps-m/quizzes-web-application" target="_blank">quizzes-web-application</a></td>
+    <td>Simple Ruby on Rails application. Created together with another developer.</td>
+    <td>Ruby on Rails, Ruby</td>
   </tr>
   <tr>
     <td></td>
     <td><a href="https://github.com/kristaps-m/Village" target="_blank">Village</a></td>
-    <td>Simple fullstack application.</td>
+    <td>Simple fullstack application. Live preview: <a href="https://villageclient.azurewebsites.net">villageclient.azurewebsites.net</a> </td>
     <td>ASP.NET, C#, Angular + bootstrap</td>
+  </tr>
+    <tr>
+    <td></td>
+    <td><a href="https://github.com/kristaps-m/Village" target="_blank">CV-generator-clone</a></td>
+    <td>Simple CV-generator using Next.js. Live preview: <a href="https://cv-generator-clone.vercel.app">cv-generator-clone.vercel.app</a> </td>
+    <td>Next.js, TS</td>
   </tr>
   <tr>
     <td></td>
@@ -109,7 +119,7 @@ margin-right: 0.5em;
   </tr> -->
 </table>
 
-<p>I showed 4 projects in this table. But there are more in my GitHub page.</p>
+<p>I showed 5 projects in this table. But there are more in my GitHub page.</p>
 
 </body>
 </html>
