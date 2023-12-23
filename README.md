@@ -4,7 +4,6 @@
 - Currently I have more than 30 public repositories.
 - 🔭 I’m currently working on [github.com/kristaps-m/Village](https://github.com/kristaps-m/Village)
   - Come check it out. It has .NET backend and Angular frontend.
-  - You can look at live website: https://villageclient.azurewebsites.net
 - ⚡ I have created interesting project using Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>, .NET for API and React + Matreal UI [github.com/kristaps-m/ycombinator-data-scraper](https://github.com/kristaps-m/ycombinator-data-scraper)
   - It scrapes data from [news.ycombinator.com](https://news.ycombinator.com) using Python. Puts data in SQL data base, and shows frontend with React.
 - ⚡ I have created interesting project using Next.js.
@@ -60,7 +59,7 @@ margin-right: 0.5em;
   <tr>
     <td></td>
     <td><a href="https://github.com/kristaps-m/Village" target="_blank">Village</a></td>
-    <td>Simple fullstack application. Live preview: <a href="https://villageclient.azurewebsites.net">villageclient.azurewebsites.net</a> </td>
+    <td>Simple fullstack application.</td>
     <td>ASP.NET, C#, Angular + bootstrap</td>
   </tr>
     <tr>
